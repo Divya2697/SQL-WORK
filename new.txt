@@ -1,1 +1,2 @@
  i am going to learn sql
+trying to learn sql
